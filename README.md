@@ -1,6 +1,8 @@
 # tag-detection
 This repo is for AprilTag visual detection
 
+Please read this google doc.
+https://docs.google.com/document/d/1FA9J8RrHl1PAy0vEUeeQDT3k65CeetYTwENWnmsVwoc/edit?usp=sharing
 
 # Install librealsense
 https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md
