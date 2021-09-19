@@ -1,3 +1,10 @@
+# Important note
+Refer to [this](https://github.com/HanwenCao/simple_ppe_algo) repo for ArUco marker detection.  
+What's the difference?  
+1. ArUco marker detection(recommended): Detection ArUco markers (or ChArUco) and pose estimation. Depends on OpenCV and librealsense.  
+2. This repo: AptilTag detection and pose estimation. Depends on OpenCV and librealsense and Visp.
+
+
 # tag-detection
 This repo is for AprilTag visual detection
 
